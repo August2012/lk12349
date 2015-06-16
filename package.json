@@ -1,0 +1,9 @@
+{
+  "name": "lk12349",
+  "description": "lk12349 app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.12.4"
+  }
+}
